@@ -486,6 +486,9 @@ RestAPIMoTest.php
 test/phpunit/PaypalTest.php
 phpunit/PaypalTest.php
 PaypalTest.php
+test/phpunit/VariantsTest.php
+phpunit/VariantsTest.php
+VariantsTest.php
 test/phpunit/CommonObjectTest.php
 phpunit/CommonObjectTest.php
 CommonObjectTest.php
@@ -1173,6 +1176,10 @@ agenda.php
 htdocs/resource/card.php
 resource/card.php
 card.php
+htdocs/resource/class/api_dolresources.class.php
+resource/class/api_dolresources.class.php
+class/api_dolresources.class.php
+api_dolresources.class.php
 htdocs/resource/class/html.formresource.class.php
 resource/class/html.formresource.class.php
 class/html.formresource.class.php
@@ -30150,6 +30157,11 @@ install/mysql/tables/llx_categorie_fichinter-fichinter.key.sql
 mysql/tables/llx_categorie_fichinter-fichinter.key.sql
 tables/llx_categorie_fichinter-fichinter.key.sql
 llx_categorie_fichinter-fichinter.key.sql
+htdocs/install/mysql/tables/llx_onlinepayment_session.sql
+install/mysql/tables/llx_onlinepayment_session.sql
+mysql/tables/llx_onlinepayment_session.sql
+tables/llx_onlinepayment_session.sql
+llx_onlinepayment_session.sql
 htdocs/install/mysql/tables/llx_product_lang.sql
 install/mysql/tables/llx_product_lang.sql
 mysql/tables/llx_product_lang.sql
@@ -31775,6 +31787,11 @@ install/mysql/tables/llx_asset_accountancy_codes_economic-asset.key.sql
 mysql/tables/llx_asset_accountancy_codes_economic-asset.key.sql
 tables/llx_asset_accountancy_codes_economic-asset.key.sql
 llx_asset_accountancy_codes_economic-asset.key.sql
+htdocs/install/mysql/tables/llx_onlinepayment_session.key.sql
+install/mysql/tables/llx_onlinepayment_session.key.sql
+mysql/tables/llx_onlinepayment_session.key.sql
+tables/llx_onlinepayment_session.key.sql
+llx_onlinepayment_session.key.sql
 htdocs/install/mysql/tables/llx_c_stcommcontact.sql
 install/mysql/tables/llx_c_stcommcontact.sql
 mysql/tables/llx_c_stcommcontact.sql
@@ -35388,6 +35405,10 @@ htdocs/core/triggers/README
 core/triggers/README
 triggers/README
 README
+htdocs/core/triggers/interface_50_modVariants_VariantsImport.class.php
+core/triggers/interface_50_modVariants_VariantsImport.class.php
+triggers/interface_50_modVariants_VariantsImport.class.php
+interface_50_modVariants_VariantsImport.class.php
 htdocs/core/triggers/interface_50_modMailmanspip_Mailmanspipsynchro.class.php
 core/triggers/interface_50_modMailmanspip_Mailmanspipsynchro.class.php
 triggers/interface_50_modMailmanspip_Mailmanspipsynchro.class.php
@@ -59756,6 +59777,9 @@ month_report.php
 htdocs/holiday/define_holiday.php
 holiday/define_holiday.php
 define_holiday.php
+htdocs/holiday/holiday_agenda.php
+holiday/holiday_agenda.php
+holiday_agenda.php
 htdocs/holiday/list.php
 holiday/list.php
 list.php

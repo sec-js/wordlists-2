@@ -12425,6 +12425,10 @@ erpnext/patches/v16_0/set_default_close_opportunity_after_days.py
 patches/v16_0/set_default_close_opportunity_after_days.py
 v16_0/set_default_close_opportunity_after_days.py
 set_default_close_opportunity_after_days.py
+erpnext/patches/v16_0/rename_component_cost_valuation_type.py
+patches/v16_0/rename_component_cost_valuation_type.py
+v16_0/rename_component_cost_valuation_type.py
+rename_component_cost_valuation_type.py
 erpnext/patches/v16_0/depends_on_inv_dimensions.py
 patches/v16_0/depends_on_inv_dimensions.py
 v16_0/depends_on_inv_dimensions.py

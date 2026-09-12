@@ -2575,6 +2575,7 @@ erpnext/patches/v16_0/update_company_custom_field_in_bin.py
 erpnext/patches/v16_0/move_warehouse_defaults_to_company.py
 erpnext/patches/v16_0/fix_titles.py
 erpnext/patches/v16_0/set_default_close_opportunity_after_days.py
+erpnext/patches/v16_0/rename_component_cost_valuation_type.py
 erpnext/patches/v16_0/depends_on_inv_dimensions.py
 erpnext/patches/v16_0/merge_repost_settings_to_accounts_settings.py
 erpnext/config/projects.py

@@ -11194,6 +11194,7 @@ core/tests/Drupal/Tests/Core/Recipe/RecipeMultipleModulesConfigStorageTest.php
 core/tests/Drupal/Tests/Core/Recipe/RecipeConfigStorageWrapperTest.php
 core/tests/Drupal/Tests/Core/Recipe/CoreRecipesTest.php
 core/tests/Drupal/Tests/Core/Command/BootableCommandTraitTest.php
+core/tests/Drupal/Tests/Core/Command/DrupalConsoleLoggerTest.php
 core/tests/Drupal/Tests/Core/PageCache/CommandLineOrUnsafeMethodTest.php
 core/tests/Drupal/Tests/Core/PageCache/NoSessionOpenTest.php
 core/tests/Drupal/Tests/Core/PageCache/DenyNoCacheRoutesTest.php
@@ -12468,6 +12469,7 @@ core/tests/Drupal/KernelTests/Core/Render/Element/TableTest.php
 core/tests/Drupal/KernelTests/Core/Render/Element/RenderElementTypesTest.php
 core/tests/Drupal/KernelTests/Core/Render/RenderTest.php
 core/tests/Drupal/KernelTests/Core/Render/LazyBuilderPlaceholderTest.php
+core/tests/Drupal/KernelTests/Core/Render/RendererLegacyTest.php
 core/tests/Drupal/KernelTests/Core/Pager/RequestPagerTest.php
 core/tests/Drupal/KernelTests/Core/Pager/PagerManagerTest.php
 core/tests/Drupal/KernelTests/Core/Libraries/JqueryUiLibraryAssetsTest.php
@@ -14143,6 +14145,7 @@ core/lib/Drupal/Core/Flood/PrefixFloodInterface.php
 core/lib/Drupal/Core/Flood/MemoryBackend.php
 core/lib/Drupal/Core/Update/UpdateRegistry.php
 core/lib/Drupal/Core/Update/UpdateBackend.php
+core/lib/Drupal/Core/Update/DatabaseUpdate.php
 core/lib/Drupal/Core/Update/UpdateKernel.php
 core/lib/Drupal/Core/Update/RemovedPostUpdateNameException.php
 core/lib/Drupal/Core/Update/UpdateServiceProvider.php

@@ -21201,6 +21201,11 @@ partials/site/helpers/random-avatar-image.htm
 site/helpers/random-avatar-image.htm
 helpers/random-avatar-image.htm
 random-avatar-image.htm
+themes/demo/partials/site/error-illustration.htm
+demo/partials/site/error-illustration.htm
+partials/site/error-illustration.htm
+site/error-illustration.htm
+error-illustration.htm
 themes/demo/partials/site/modals/password-dialog.htm
 demo/partials/site/modals/password-dialog.htm
 partials/site/modals/password-dialog.htm

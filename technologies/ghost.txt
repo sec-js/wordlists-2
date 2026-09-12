@@ -3749,9 +3749,11 @@ SECURITY.md
 .changeset/common-squids-argue.md
 .changeset/gray-scale-spelling.md
 .changeset/four-rings-relate.md
+.changeset/weak-wasps-love.md
 .changeset/six-parents-shout.md
 .changeset/floppy-bobcats-spend.md
 .changeset/koenig-style-export.md
+.changeset/early-elephants-press.md
 .changeset/spacy-poodles-hunt.md
 .changeset/swift-guests-grin.md
 .changeset/tidy-mangos-repeat.md
@@ -3789,7 +3791,6 @@ configs/vite-public-app/package.json
 configs/vite-public-app/index.mjs
 .gitattributes
 .oxfmtrc.json
-docker/minio/setup.sh
 docker/dev-gateway/Dockerfile
 docker/dev-gateway/README.md
 docker/dev-gateway/Caddyfile
@@ -5552,7 +5553,7 @@ ghost/core/test/integration/adapters/storage/s3-storage.test.ts
 ghost/core/test/integration/adapters/redirects/s3-redirects-store.test.ts
 ghost/core/test/integration/adapters/redis/adapter-cache-redis.test.js
 ghost/core/test/integration/settings/settings.test.js
-ghost/core/test/integration/utils/minio.test.ts
+ghost/core/test/integration/utils/s3.test.ts
 ghost/core/test/integration/jobs/update-check.test.ts
 ghost/core/test/integration/models/member-deep-pagination.test.js
 ghost/core/test/integration/importer/v5.test.js
@@ -6566,12 +6567,12 @@ ghost/core/test/utils/fixtures/files/test.pdf
 ghost/core/test/utils/fixtures/default-settings.json
 ghost/core/test/utils/fixtures/cache-rules.ts
 ghost/core/test/utils/deferred.ts
-ghost/core/test/utils/minio.ts
 ghost/core/test/utils/e2e-framework-mock-manager.js
 ghost/core/test/utils/admin-utils.ts
 ghost/core/test/utils/i18n-test-utils.js
 ghost/core/test/utils/db-utils.js
 ghost/core/test/utils/email-verification-utils.ts
+ghost/core/test/utils/s3.ts
 ghost/core/test/utils/vitest-setup.ts
 ghost/core/test/utils/batch-email-utils.js
 ghost/core/test/utils/api.js

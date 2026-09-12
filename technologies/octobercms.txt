@@ -3535,6 +3535,7 @@ themes/demo/partials/site/nav-links.htm
 themes/demo/partials/site/how-its-made.htm
 themes/demo/partials/site/helpers/random-stock-image.htm
 themes/demo/partials/site/helpers/random-avatar-image.htm
+themes/demo/partials/site/error-illustration.htm
 themes/demo/partials/site/modals/password-dialog.htm
 themes/demo/partials/site/modals/alert-dialog.htm
 themes/demo/partials/site/modals/ajax-modal.htm
